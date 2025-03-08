@@ -6,6 +6,9 @@ The goal was to create Clustering-Based Intent Identification Engine in Greek, w
 
 Developed a Clustering Algorithm using K-means. Utilized Multilingual SBERT for embeddings, UMAP for Dimensionality Reduction & Silhouette Score for finding optimal number of clusters and Evaluation.
 
+From the algorithm, 20 clusters occured.
+The final silhouette score for the cluster evaluation was 0.69.
+
 # Setup
 
 ## Create Virtual Enviroment 
